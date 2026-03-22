@@ -1,0 +1,10 @@
+--------------------------------------
+ Open Source Manifesto
+--------------------------------------
+Name: Nihaar Gupta
+Date: 22 March 2026
+
+I believe that open-source software represents Innovation.
+Every day, I rely on tools like Git that are built by a global community.
+In the future, I want to create and freely share AI App with the world.
+Knowledge should be open, collaborative, and accessible to everyone.
